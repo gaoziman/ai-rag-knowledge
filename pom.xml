@@ -92,13 +92,13 @@
             </dependency>
 
             <dependency>
-                <groupId>cn.bugstack</groupId>
-                <artifactId>xfg-dev-tech-api</artifactId>
+                <groupId>org.leocoder</groupId>
+                <artifactId>coder-dev-tech-api</artifactId>
                 <version>1.0</version>
             </dependency>
             <dependency>
-                <groupId>cn.bugstack</groupId>
-                <artifactId>xfg-dev-tech-trigger</artifactId>
+                <groupId>org.leocoder</groupId>
+                <artifactId>coder-dev-tech-trigger</artifactId>
                 <version>1.0</version>
             </dependency>
         </dependencies>
