@@ -1,7 +1,7 @@
 /**
  * @author : 程序员Leo
- * @date 2025-03-09 18:32
+ * @date 2025-03-09 23:02
  * @version 1.0
  * @description :
  */
-package org.leocoder.dev.teach.app;
+package org.leocoder.dev.teach;
